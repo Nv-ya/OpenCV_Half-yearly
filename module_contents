@@ -1,0 +1,51 @@
+1. read image - read_image()
+2. read video - read_video()
+3. resize - resize()
+4. rescale - rescale()
+5. blank - blank()
+6. paint - paint()
+7. rectangle - rect()
+8. circle - circle()
+9. line - line()
+10. text - text()
+11. shapes - shapes()
+
+# 5 ESSENTIAL FUNCTIONS IN OPEN CV
+1. gray - gray()
+2. blur - blur()
+3. edge cascade - edge_cascade()
+4. dilate - dilate()
+5. erode - erode()
+
+#IMAGE TRANSFORMATON
+1. translate - translate()
+2. reflection x-axis - reflection_xaxis()
+3. reflection y-axis - reflection_yaxis()
+4. rotate - rotate()
+5. shrink - shrink()
+6. enlarge - enlarge()
+7. crop - crop()
+8. x-axis shearing - xaxis_shearing()
+9. y-axis shearing - yaxis_shearing()
+
+#CONTOURS AND COLOR SPACES
+1. contours (find and draw) - contours()
+2. color spaces - color_spaces
+
+#SMOOTHING AND BLURRING
+1. 2D-convolution - convolution()
+2. averaging - averaging()
+3. gaussian blur - gaussian_blur()
+4. median blur - median()
+5. bilateral blur - bilateral()
+
+#BITWISE OPERATIONS
+1. bitwise and - bitwise_and()
+2. bitwise or - bitwise_or()
+3. bitwise xor - bitwise_xor()
+4. bitwise not - bitwise_not()
+
+#MASKING & HISTOGRAM COMPUTATION
+1. masking - masking()
+2. alpha blurring -alpha_blurring()
+3. histogram computation - histogram()
